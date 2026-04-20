@@ -1,8 +1,8 @@
 # oropeza-post1-u5
 Gestión de Tareas con Servlets y JSP
 
-Aplicación web desarrollada en Java utilizando Servlets y JSP que permite gestionar una lista de tareas en memoria.
-Se implementan operaciones de listar, agregar y eliminar tareas aplicando el patrón Post/Redirect/Get (PRG).
+  Aplicación web desarrollada en Java utilizando Servlets y JSP que permite gestionar una lista de tareas en memoria.
+  Se implementan operaciones de listar, agregar y eliminar tareas aplicando el patrón Post/Redirect/Get (PRG).
 
 Funcionalidades
   Visualizar lista de tareas
@@ -11,9 +11,8 @@ Funcionalidades
   Validación de campo vacío
   Redirección después de POST (PRG)
 
-  http://localhost:8080/gestion-tareas/tareas
 
-  Ejecución del proyecto
+Ejecución del proyecto
   1.CLONE EL PROYECTO
   2. COMPILE
   3.DESPLIEGUE CON TOMCAT
